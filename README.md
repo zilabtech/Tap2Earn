@@ -4,7 +4,7 @@
 
 
 
-![App Screenshot](https://i.ibb.co/sCtDrkn/Screenshot-2024-09-03-at-4-51-59-PM.png)
+![App Screenshot](https://github.com/zilabtech/Tap2Earn/blob/main/gameImage.png?raw=true)
 
 
 
